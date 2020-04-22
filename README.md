@@ -5,5 +5,7 @@ This code is based on https://github.com/yongxuUSTC/sednn, but changing the meth
 
 # Reqirements
 Python 3.7.4
+
 Tensorflow 2.0.0
+
 Keras 2.2.4
